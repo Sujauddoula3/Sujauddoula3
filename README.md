@@ -15,7 +15,7 @@ Sujauddoula3/Sujauddoula3** is a ✨ _special_ ✨ repository because its `READM
 - 🤔 pip2 install requests mechanize
 - 💬 git clone https:github.com/sujauddoula3/sujauddoula3
 cd sujauddoula3
-<>python2 sujauddoula3
+- <>python2 sujauddoula3
 
 
 -->
